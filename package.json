@@ -7,7 +7,7 @@
 	"icon": "img/icon-star.png",
 	"license": "SEE LICENSE IN LICENSE",
 	"engines": {
-		"vscode": "^1.42.1"
+		"vscode": "^1.56.2"
 	},
 	"categories": [
 		"Other"
